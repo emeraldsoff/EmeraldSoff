@@ -2,8 +2,8 @@
 
 ## Apps ready for download:
 
-+ [EmeraldSoff MegaProspects](https://emeraldsoff.github.io/EmeraldSoff/Mega_Prospects_Next/release/app-release.apk)
++ [EmeraldSoff Mega Prospects](https://emeraldsoff.github.io/EmeraldSoff/Mega_Prospects_Next/release/app-release.apk)
 
 ## Apps Privacy Policies:
 
-+ [EmeraldSoff Privacy Policy](https://emeraldsoff.github.io/EmeraldSoff/Mega_Prospects_Next/docs/privacy_policy.html)
++ [Mega Prospects  Privacy Policy](https://emeraldsoff.github.io/EmeraldSoff/Mega_Prospects_Next/docs/privacy_policy.html)
