@@ -6,4 +6,4 @@
 
 ## Apps Privacy Policies:
 
-+ [EmeraldPrivacy Policy](https://emeraldsoff.github.io/EmeraldSoff/Mega_Prospects_Next/docs/privacy_policy.html)
++ [EmeraldSoff Privacy Policy](https://emeraldsoff.github.io/EmeraldSoff/Mega_Prospects_Next/docs/privacy_policy.html)
