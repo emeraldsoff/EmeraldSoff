@@ -10,4 +10,4 @@
 
 ## Apps building:
 
-+ Mega Prospects Next[![Build status](https://build.appcenter.ms/v0.1/apps/037720b9-6ac3-4f7d-b185-0697fe301877/branches/master/badge)](https://appcenter.ms)
++ Mega Prospects Next  [![Build status](https://build.appcenter.ms/v0.1/apps/037720b9-6ac3-4f7d-b185-0697fe301877/branches/master/badge)](https://appcenter.ms)
